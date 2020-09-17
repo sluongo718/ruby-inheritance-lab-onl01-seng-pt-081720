@@ -4,6 +4,7 @@ class Student < User
 
   def initialize(first_name)
     @first_name = first_name
+    @knowledge = []
   end
 
 end
