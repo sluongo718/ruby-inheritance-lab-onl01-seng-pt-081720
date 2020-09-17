@@ -1,8 +1,8 @@
 class Student < User
   
-  attr_accessor 
+  attr_accessor :knowle
 
-  def initialize()
+  def initialize
     
   end
 
