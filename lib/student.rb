@@ -1,6 +1,6 @@
 class Student < User
   
-  attr_accessor :knowle
+  attr_accessor :knowledge
 
   def initialize
     
